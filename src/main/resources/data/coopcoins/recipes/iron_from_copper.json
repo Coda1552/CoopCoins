@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "cc",
+    "cc"
+  ],
+  "key": {
+    "c": {
+      "item": "coopcoins:copper_coin"
+    }
+  },
+  "result": {
+    "item": "coopcoins:iron_coin",
+    "count": 1
+  }
+}

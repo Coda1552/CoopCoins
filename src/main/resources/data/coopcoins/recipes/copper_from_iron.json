@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "coopcoins:iron_coin"
+    }
+  ],
+  "result": {
+    "item": "coopcoins:copper_coin",
+    "count": 4
+  }
+}
